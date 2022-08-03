@@ -10,7 +10,7 @@ export const Frame = (props) => {
             height:['400px','300px',],
             flexDirection:'column',
             justifyContent:'center',
-            alignItems:'center',
+            alignItems:'flex-start',
             background:'white',
             color: '#353535'
         }}
